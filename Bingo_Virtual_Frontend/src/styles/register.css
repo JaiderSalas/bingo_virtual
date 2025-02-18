@@ -1,0 +1,39 @@
+.register-content{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.register-errors{
+    color: red;
+}
+.register-form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    p{
+        color: red;
+    }
+}
+
+.user{
+    margin: 10px;
+}
+.email{
+    margin: 10px;
+}
+.pass{
+    margin: 10px;
+}
+.button{
+    margin: 10px;
+}
+
+.final{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    a{
+        margin: 10px;
+    }
+}

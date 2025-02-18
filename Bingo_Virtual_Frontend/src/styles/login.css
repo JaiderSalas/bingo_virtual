@@ -1,0 +1,28 @@
+.login-content{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    p{
+        color: red;
+    }
+}
+.final{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    a{
+        margin: 10px;
+    }
+}
+.login-errors{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
